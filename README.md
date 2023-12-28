@@ -19,3 +19,4 @@
 15. [Predict-Test-Scores-of-students](https://github.com/Sakil786/Predict-Test-Scores-of-students "Predict-Test-Scores-of-students") - Predict-Test-Scores-of-students
 16. [Dashboard_using_plotly_dash](https://github.com/Sakil786/Dashboard_using_plotly_dash "Dashboard_using_plotly_dash") -Dashboard using Plotly Dash
 17. [HyperParameterOptimization](https://github.com/Sakil786/HyperParameterOptimization "HyperParameterOptimization") - HyperParameterOptimization
+18. [MachineLearning_Algorithms](https://github.com/Sakil786/MachineLearning_Algorithms "MachineLearning_Algorithms") - MachineLearning_Algorithms
