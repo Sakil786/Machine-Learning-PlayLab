@@ -7,3 +7,4 @@
 6. [Dashboard_using_plotly_dash](https://github.com/Sakil786/Dashboard_using_plotly_dash "Dashboard_using_plotly_dash") -Dashboard using Plotly Dash
 7. [classification_model_by_combinig_numerical_and_textual_features](https://github.com/Sakil786/classification_model_by_combinig_numerical_and_textual_features "classification_model_by_combinig_numerical_and_textual_features") -classification_model_by_combinig_numerical_and_textual_features
 8. [Cleanlab_2_0](https://github.com/Sakil786/Cleanlab_2_0/blob/main/Cleanlab_2_0.ipynb "Cleanlab_2_0") - Cleanlab_2_0
+9. [mlnotify_implementation](https://github.com/Sakil786/mlnotify_implementation/blob/main/mlnotify_implementation.ipynb "mlnotify_implementation") - mlnotify_implementation
