@@ -10,3 +10,4 @@
 9. [mlnotify_implementation](https://github.com/Sakil786/mlnotify_implementation/blob/main/mlnotify_implementation.ipynb "mlnotify_implementation") - mlnotify_implementation
 10. [Logistic-Regression-from-Scratch](https://github.com/Sakil786/Logistic-Regression-from-Scratch-Youtube_Implementation "Logistic-Regression-from-Scratch") - Logistic-Regression-from-Scratch
 11. [Correlation_between_two_categorical_variables](https://github.com/Sakil786/Correlation_between_two_categorical_variables "Correlation_between_two_categorical_variables") - Correlation_between_two_categorical_variables
+12. [Linear-Regression-Implementation-without-inbuilt-ML-Library](https://github.com/Sakil786/Linear-Regression-Implementation-without-inbuilt-ML-Library "Linear-Regression-Implementation-without-inbuilt-ML-Library") - Linear-Regression-Implementation-without-inbuilt-ML-Library
