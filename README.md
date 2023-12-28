@@ -25,3 +25,9 @@
 21. [Multicollinearity](https://github.com/Sakil786/Multicollinearity "Multicollinearity") - Multicollinearity
 22. [HyperParamer_tuning_in_ML_Algorithms](https://github.com/Sakil786/HyperParamer_tuning_in_ML_Algorithms "HyperParamer_tuning_in_ML_Algorithms") - HyperParamer_tuning_in_ML_Algorithms
 23. [Feature-Engineering](https://github.com/Sakil786/Feature-Engineering "Feature-Engineering") - Feature-Engineering
+24. [PCA](https://github.com/Sakil786/PCA "PCA") - PCA
+25. [Flight_price_prediction](https://github.com/Sakil786/Flight_price_prediction "Flight_price_prediction") - Flight_price_prediction
+26. [AQI_Project](https://github.com/Sakil786/AQI_Project "AQI_Project") - AQI_Project
+27. [Early-Detection-of-Sepsis-Using-Physiological-Data](https://github.com/Sakil786/Early-Detection-of-Sepsis-Using-Physiological-Data- "Early-Detection-of-Sepsis-Using-Physiological-Data") - Early-Detection-of-Sepsis-Using-Physiological-Data-
+28. [Data-Science-Module-2 ](https://github.com/Sakil786/Data-Science-Module-2 "Data-Science-Module-2 ")- Data-Science-Module-2
+29. [DataScience](https://github.com/Sakil786/DataScience "DataScience") - DataScience
