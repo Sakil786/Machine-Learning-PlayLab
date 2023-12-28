@@ -11,3 +11,4 @@
 10. [Logistic-Regression-from-Scratch](https://github.com/Sakil786/Logistic-Regression-from-Scratch-Youtube_Implementation "Logistic-Regression-from-Scratch") - Logistic-Regression-from-Scratch
 11. [Correlation_between_two_categorical_variables](https://github.com/Sakil786/Correlation_between_two_categorical_variables "Correlation_between_two_categorical_variables") - Correlation_between_two_categorical_variables
 12. [Linear-Regression-Implementation-without-inbuilt-ML-Library](https://github.com/Sakil786/Linear-Regression-Implementation-without-inbuilt-ML-Library "Linear-Regression-Implementation-without-inbuilt-ML-Library") - Linear-Regression-Implementation-without-inbuilt-ML-Library
+13. [Netflix-Pricing-for-Consumer-Subscription](https://github.com/Sakil786/Netflix-Pricing-for-Consumer-Subscription "Netflix-Pricing-for-Consumer-Subscription") - Netflix-Pricing-for-Consumer-Subscription
