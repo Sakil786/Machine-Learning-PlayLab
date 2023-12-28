@@ -9,3 +9,4 @@
 8. [Cleanlab_2_0](https://github.com/Sakil786/Cleanlab_2_0/blob/main/Cleanlab_2_0.ipynb "Cleanlab_2_0") - Cleanlab_2_0
 9. [mlnotify_implementation](https://github.com/Sakil786/mlnotify_implementation/blob/main/mlnotify_implementation.ipynb "mlnotify_implementation") - mlnotify_implementation
 10. [Logistic-Regression-from-Scratch](https://github.com/Sakil786/Logistic-Regression-from-Scratch-Youtube_Implementation "Logistic-Regression-from-Scratch") - Logistic-Regression-from-Scratch
+11. [Correlation_between_two_categorical_variables](https://github.com/Sakil786/Correlation_between_two_categorical_variables "Correlation_between_two_categorical_variables") - Correlation_between_two_categorical_variables
